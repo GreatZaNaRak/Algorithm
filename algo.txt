@@ -1,0 +1,17 @@
+ปัญหา
+	- ปัญหาตัวหมู่มาก
+	- sorting
+	- median
+	- min spanning tree
+
+กลวิธี
+	- brute force -> ทำทุกอย่าง
+	- divine and conquer -> แยกย่อยละมารวม
+	- greedy -> เลือกคำตอบโดยใช้การพิจราณาลักษณะของตัวข้อมูล
+	- state-space search -> คล้าย brute force แต่เพิ่ม condition ให้ทำแค่ที่ต้องทำ
+	- random -> สุ่ม
+
+การวิเคราะ
+
+
+divine and conquer (แบ่งแยกและเอาชนะ)
